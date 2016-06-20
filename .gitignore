@@ -1,0 +1,9 @@
+*~
+.DS_Store
+deps
+*.beam
+*.dump
+ebin
+.rebar
+*.bak
+.idea
